@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>welcome to c# training</h1>
+<p> my first c# program</p>
+<img src="C:\Users\manikanta.sure\Desktop\greeting" alt="" width= "104" height="142">
+</body>
+</html>
